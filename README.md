@@ -14,7 +14,7 @@ The following hardware components are required for this project:
 -Arduino IDE
 ## Circuit Diagram
 The following diagram shows the circuit connections for the alcohol detection system:
-![](https://github.com/Monika3002/Alcohol-Detection/blob/main/image.png)
+![](https://github.com/Monika3002/Alcohol-Detection/blob/main/Screenshot%20(372).png)
 
 ## Installation
 Clone or download this repository.
