@@ -1,7 +1,9 @@
 ##Alcohol Detection Arduino Project
+
 This project is an alcohol detection system that utilizes an Arduino microcontroller and a MQ-3 alcohol sensor to detect the presence of alcohol in the air. The sensor is capable of detecting alcohol concentrations ranging from 0.05 to 10mg/L.
 
 #Hardware Requirements
+
 The following hardware components are required for this project:
 
 Arduino UNO R3
@@ -14,7 +16,7 @@ Software Requirements
 Arduino IDE
 #Circuit Diagram
 The following diagram shows the circuit connections for the alcohol detection system:
-[]
+![](https://github.com/Monika3002/Monika3002/blob/main/gif2.gif)
 
 Circuit Diagram
 
