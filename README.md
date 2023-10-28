@@ -5,7 +5,7 @@ This project is an alcohol detection system that utilizes an Arduino microcontro
 ## Hardware Requirements
 The following hardware components are required for this project:
 -Arduino UNO R3
--MQ-3 Alcohol Sensor
+-MQ-3 Alcohol Sensor.
 -Breadboard
 -Jumper Wires
 -LED
